@@ -1,0 +1,45 @@
+{
+  "about": "UNE TABLE GASTRONOMIQUE CHALEUREUSE",
+  "open": true,
+  "start": 19,
+  "temp": 22.5,
+  "menus": [
+    {
+      "name": "MENU0",
+      "price": "0€",
+      "menu": {
+        "starter": [ "ENTREE 01", "ENTREE 02", "ENTREE 03" ],
+        "dish": [ "PLAT 01", "PLAT 02", "PLAT 03" ],
+        "dessert": [ "DESSERT 01", "DESSERT 02", "DESSERT 03" ]
+      }
+    },
+    {
+      "name": "MENU1",
+      "price": "1€",
+      "menu": {
+        "starter": [ "ENTREE 11", "ENTREE 12", "ENTREE 13" ],
+        "dish": [ "PLAT 11", "PLAT 12", "PLAT 13" ],
+        "dessert": [ "DESSERT 11", "DESSERT 12", "DESSERT 13" ]
+      }
+
+    },
+    {
+      "name": "MENU2",
+      "price": "2€",
+      "menu": {
+        "starter": [ "ENTREE 21", "ENTREE 22", "ENTREE 23" ],
+        "dish": [ "PLAT 21", "PLAT 22", "PLAT 23" ],
+        "dessert": [ "DESSERT 21", "DESSERT 22", "DESSERT 23" ]
+      }
+    },
+    {
+      "name": "MENU3",
+      "price": "3€",
+      "menu": {
+        "starter": [ "ENTREE 31", "ENTREE 32", "ENTREE 33" ],
+        "dish": [ "PLAT 31", "PLAT 32", "PLAT 33" ],
+        "dessert": [ "DESSERT 31", "DESSERT 32", "DESSERT 33" ]
+      }
+    }
+  ]
+}
