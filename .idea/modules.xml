@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quest-android-reflection.iml" filepath="$PROJECT_DIR$/.idea/quest-android-reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/quest-android-reflection.iml" filepath="$PROJECT_DIR$/quest-android-reflection.iml" />
     </modules>
   </component>
