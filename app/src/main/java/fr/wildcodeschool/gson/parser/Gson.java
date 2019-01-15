@@ -119,6 +119,7 @@ public class Gson {
             Object obj = pJsonArray.get( i );
             try {
                 if(obj instanceof  JSONObject) {
+                    assert componentType != null;
                     Object newInstance = componentType.newInstance();
                     retValue &= parseObject( (JSONObject) obj, newInstance );
                     Array.set( pClass, i, newInstance );
